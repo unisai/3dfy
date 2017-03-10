@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+#canvasHouse {
+    position: relative; 
+}
+
+#myCanvas { 
+    margin: 20px;
+    width: 500px;
+    height: 500px;
+    display:block;
+    background: #fff;
+    position: absolute; 
+}
+
+* { 
+    outline: 1px solid red;
+}
