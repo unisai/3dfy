@@ -5,3 +5,4 @@ A 3D Models based Project.. It's Time for WebGL and Three.js. The aim of this pr
 
 ... PAUSED ... 22/03/17
 ... RESUMED ... 13/04/17
+... QUIT ... 22/04/17
